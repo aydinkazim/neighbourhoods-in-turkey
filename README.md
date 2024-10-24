@@ -10,9 +10,8 @@ This script scrapes postal code data from the [Turkish Postal Service (PTT) webs
 
 ## Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/aydinkazim/neighbourhoods-in-turkey.git
-   cd neighbourhoods-in-turkey
-   ruby neighbourhoods-in-turkey.rb 
-   ```
+```bash
+git clone https://github.com/aydinkazim/neighbourhoods-in-turkey.git
+cd neighbourhoods-in-turkey
+ruby neighbourhoods-in-turkey.rb 
+```
